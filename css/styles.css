@@ -1,0 +1,15 @@
+body{
+  background-color: blue;
+  color: yellow;
+}
+.jumbotron{
+  background-color: red;
+  border: 3px solid yellow;
+}
+.well{
+  background-color: red;
+  border: 3px solid yellow;
+}
+.button{
+  background-color: red;
+}
